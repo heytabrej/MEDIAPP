@@ -32,7 +32,7 @@ st.markdown("""
         <img src="https://www.freepnglogos.com/uploads/medicine-logo-png-1.png" alt="Logo" width="100">
     </div>
     """, unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center;'>MEDICINE WEB</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>MediSage</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center;'>ALL THE DETAILS FOR YOUR MEDICINES</h1>", unsafe_allow_html=True)
 
 st.write("\n\n\n")
