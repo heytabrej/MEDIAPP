@@ -1,4 +1,3 @@
 streamlit
 langchain
 langchain-community
-gpt-3.5-turbo
