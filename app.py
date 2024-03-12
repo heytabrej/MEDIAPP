@@ -13,7 +13,7 @@ def web_writer(a):
 
 
 example = web_writer("example")
-key = "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"
+key = "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"
 chatllm = ChatOpenAI(openai_api_key=key, temperature=0.8, model='gpt-3.5-turbo')
 
 
