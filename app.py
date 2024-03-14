@@ -38,7 +38,7 @@ st.markdown("<h3 style='text-align: center;'>ALL THE DETAILS FOR YOUR MEDICINES<
 st.write("\n\n\n")
 st.markdown("<h3 style='text-align: center;'>Language</h1>", unsafe_allow_html=True)
 option = st.selectbox('',
-    ('English', 'Hindi',  'Nepali')
+    ('English', 'Hindi',  'Nepali', 'Tamil')
 )
 
 st.markdown("<h3 style='text-align: center;'>Name of your medicine or disease</h3>", unsafe_allow_html=True)
